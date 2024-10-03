@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Material 테마를 사용할 경우 이름 변경 -->
+    <style name="MaterialTheme.MoneyTracker" parent="android:Theme.Material.Light.NoActionBar" />
+</resources>
